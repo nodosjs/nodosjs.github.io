@@ -1,6 +1,6 @@
 ---
-id: getting_started
 title: Getting Started with Nodos
+slug: guides/
 sidebar_label: Getting Started
 ---
 

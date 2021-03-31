@@ -1,6 +1,6 @@
 ---
-id: motivation
 title: Motivation
+slug: guides/motivation
 sidebar_label: Motivation
 ---
 

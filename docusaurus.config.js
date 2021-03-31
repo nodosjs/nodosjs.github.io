@@ -2,7 +2,7 @@ module.exports = {
   title: 'Nodos',
   tagline: 'Node.js framework for humans (inspired by Rails, Phoenix, Django)',
   url: 'https://nodosjs.github.io',
-  baseUrl: '/nodosjs.github.io/',
+  baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'nodosjs', // Usually your GitHub org/user name.
   projectName: 'nodosjs.github.io', // Usually your repo name.
@@ -15,7 +15,7 @@ module.exports = {
       },
       items: [
         {
-          to: 'docs/getting_started',
+          to: 'docs/guides/',
           activeBasePath: 'docs',
           label: 'Guides',
           position: 'left',
