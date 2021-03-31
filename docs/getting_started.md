@@ -44,7 +44,7 @@ The examples below use **$** to represent your terminal prompt in a UNIX-like OS
 ### 3.1 Installing Nodos
 
 Before you install Nodos, you should check to make sure that your system has the proper prerequisites installed. These include:
-- Node.js >= 12
+- Node.js >= 14
 - SQLite3
 
 #### 3.1.1 Installing Node.js
@@ -54,7 +54,7 @@ Open up a command line prompt. On macOS open Terminal.app, on Windows choose "Ru
 $ node -v
 v14.8.0
 ```
-Nodos requires Node.js version 12 or later. If the version number returned is less than that number, you'll need to install a fresh copy of Node.js.
+Nodos requires Node.js version 14 or later. If the version number returned is less than that number, you'll need to install a fresh copy of Node.js.
 :::note
 For more installation methods for most Operating Systems take a look at [Node.js](https://nodejs.org/en/).
 :::
