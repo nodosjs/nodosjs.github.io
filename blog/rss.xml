@@ -4,23 +4,9 @@
         <title>My Site Blog</title>
         <link>https://nodosjs.github.io/blog</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Tue, 14 Apr 2020 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 May 2019 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Blog Plugin]]></title>
-            <link>https://nodosjs.github.io/blog/2020/04/14/blog-plugin</link>
-            <guid>Blog Plugin</guid>
-            <pubDate>Tue, 14 Apr 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[You can use our blog plugin to do your posts]]></description>
-        </item>
-        <item>
-            <title><![CDATA[A large blog post]]></title>
-            <link>https://nodosjs.github.io/blog/2020/04/14/large-blog-post</link>
-            <guid>A large blog post</guid>
-            <pubDate>Tue, 14 Apr 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[Hello, this is an example]]></description>
-        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://nodosjs.github.io/blog/welcome</link>
